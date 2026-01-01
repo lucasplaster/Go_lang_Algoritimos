@@ -6,7 +6,7 @@ Ex.: 10 = decimo<br>
      assim por diante.<br>
 <br>
 Uso: 
-<pre>main.go <numero1> <numero2> <numero3> ...
+<pre>main.go numero1 numero2 numero3 ...
 </pre><br>
 <br>
 O que aprendi:<br>
