@@ -5,8 +5,7 @@ Ex.: 10 = decimo
      7 = sétimo
      assim por diante.
 
-Uso: main.go <numero>
-     main.go <numero1> <numero2> <numero3> ...
+Uso: main.go <numero1> <numero2> <numero3> ...
 
 O que aprendi:
     Uso de os.Args para ler argumentos de programa
