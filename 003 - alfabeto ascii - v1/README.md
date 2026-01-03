@@ -7,7 +7,7 @@ ex: Lucas <br>
 █      █   █  █      █████   ███   
 █      █   █  █      █   █      █  
 █████   ███    ████  █   █  ████  
-<pre>
+</pre>
 <br>
 Uso: 
 <pre>main.go suaString
