@@ -21,7 +21,7 @@ func main(){
 	for indice, valor := range entrada {
 		numero, erro := strconv.Atoi(valor)
 		if erro != nil {
-			fmt.Printf("%s não é um numero válido.")
+			fmt.Printf("o item [%s] na [%dª] posição não é um numero válido. ", valor, indice+1)
 			os.Exit(-1)
 		}
 		numeros[indice] = numero
